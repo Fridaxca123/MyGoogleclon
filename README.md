@@ -4,6 +4,7 @@ que se pareciera fisicamente al buscador de Google.
 Esta solo es la pagina frontal de google no es 
 posible usar su buscador u otras funciones, solo
 es estático. 
+<hr></hr>
 <br>Link: https://googleclonfrida.netlify.app/</br>
 <br>Imagen:</br>
 
